@@ -1,0 +1,21 @@
+c:\users\osama\documents\visual studio 2013\Projects\calculator\calculator\bin\Debug\calculator.exe.config
+c:\users\osama\documents\visual studio 2013\Projects\calculator\calculator\bin\Debug\calculator.exe
+c:\users\osama\documents\visual studio 2013\Projects\calculator\calculator\bin\Debug\calculator.pdb
+c:\users\osama\documents\visual studio 2013\Projects\calculator\calculator\bin\Debug\calculator.xml
+c:\users\osama\documents\visual studio 2013\Projects\calculator\calculator\obj\Debug\calculator.Form1.resources
+c:\users\osama\documents\visual studio 2013\Projects\calculator\calculator\obj\Debug\calculator.Resources.resources
+c:\users\osama\documents\visual studio 2013\Projects\calculator\calculator\obj\Debug\calculator.vbproj.GenerateResource.Cache
+c:\users\osama\documents\visual studio 2013\Projects\calculator\calculator\obj\Debug\calculator.exe
+c:\users\osama\documents\visual studio 2013\Projects\calculator\calculator\obj\Debug\calculator.xml
+c:\users\osama\documents\visual studio 2013\Projects\calculator\calculator\obj\Debug\calculator.pdb
+D:\Courses\Programing\VB\calculator\calculator\bin\Debug\calculator.exe.config
+D:\Courses\Programing\VB\calculator\calculator\obj\Debug\calculator.exe
+D:\Courses\Programing\VB\calculator\calculator\obj\Debug\calculator.xml
+D:\Courses\Programing\VB\calculator\calculator\obj\Debug\calculator.pdb
+D:\Courses\Programing\VB\calculator\calculator\bin\Debug\calculator.exe
+D:\Courses\Programing\VB\calculator\calculator\bin\Debug\calculator.pdb
+D:\Courses\Programing\VB\calculator\calculator\bin\Debug\calculator.xml
+D:\Courses\Programing\VB\calculator\calculator\obj\Debug\calculator.vbprojResolveAssemblyReference.cache
+D:\Courses\Programing\VB\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\Courses\Programing\VB\calculator\calculator\obj\Debug\calculator.Resources.resources
+D:\Courses\Programing\VB\calculator\calculator\obj\Debug\calculator.vbproj.GenerateResource.Cache
